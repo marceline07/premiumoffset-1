@@ -43,4 +43,3 @@ int oPlayerEyes  0x800 // public PlayerEyes eyes;"
 int oClientTeam 0x6C8 // public PlayerTeam clientTeam;
 int oSteamID 0x840 // public ulong userID; // 0x868
 int oModelState 0x728 // public ModelState modelState; // 0x770
-int oFlagOnGround 4 // public const ModelState.Flag OnGround = 4;
