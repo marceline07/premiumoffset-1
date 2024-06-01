@@ -43,3 +43,4 @@ int oPlayerEyes = 2048 // public PlayerEyes eyes;"
 int oClientTeam = 1736 // public PlayerTeam clientTeam;
 int oSteamID = 2112 // public ulong userID; // 0x868
 int oModelState = 1832 // public ModelState modelState;
+int ooClientTeam = 1736 // "public PlayerTeam clientTeam"
