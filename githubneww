@@ -45,3 +45,4 @@ int oSteamID = 2112 // public ulong userID; // 0x868
 int oModelState = 1832 // public ModelState modelState;
 int AdminKoruma = 96 // "public bool AllowRunFromServer"
 int rapidfiredelay = 532 // //public float repeatDelay
+int newRecoilOverride = 128 // public RecoilProperties newRecoilOverride; // 0x80
