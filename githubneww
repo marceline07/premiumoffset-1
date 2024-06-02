@@ -47,3 +47,4 @@ int AdminKoruma = 96 // "public bool AllowRunFromServer"
 int rapidfiredelay = 532 // //public float repeatDelay
 int newRecoilOverridee = 128 // public RecoilProperties newRecoilOverride; // 0x80
 int sekmemeilgili = 184 // 0xb8 https://prnt.sc/rRPj8RH44Ldm
+int espilgili = 1536 // https://prnt.sc/NN6SDhyWl-p_
