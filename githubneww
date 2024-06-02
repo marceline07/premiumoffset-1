@@ -55,3 +55,4 @@ int enemilist4 = 56 // 0x38
 int enemilist5 = 144 // 0x90
 int enemilisteilgili = 40 // 0x28 // https://prnt.sc/J9OqhrO8gXxY
 int espilgiliyan = 32 // 0x20 // https://prnt.sc/0_QTFwk8GoKR
+int nightmodegt = 12 // // public static float adminambientmultiplier; 0xC
