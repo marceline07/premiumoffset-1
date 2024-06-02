@@ -73,3 +73,7 @@ int todskey6 = 20 //0x14 https://prnt.sc/xrF_NCHd9iry
 int todskey7 = 24 //0x18 https://prnt.sc/xrF_NCHd9iry
 int grapicsfov1 = 184 // 0xB8 https://prnt.sc/Wz_bwmcavf64
 int grapicsfov2 = 24 // 0X18 https://prnt.sc/Wz_bwmcavf64
+int nosway1 = 752 // 0x2F0 public float aimSway; https://prnt.sc/Hp51M1CJyZ6E
+int nosway2 = 756 // 0x2F4 public float aimSwaySpeed; https://prnt.sc/Hp51M1CJyZ6E
+int supereoka1 = 936 // 0x3A8 successFraction https://prnt.sc/DCIZLsaJog73
+int supereoka2 = 952 // 0x3B8 didSparkThisFrame https://prnt.sc/DCIZLsaJog73
