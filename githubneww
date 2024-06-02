@@ -77,3 +77,4 @@ int nosway1 = 752 // 0x2F0 public float aimSway; https://prnt.sc/Hp51M1CJyZ6E
 int nosway2 = 756 // 0x2F4 public float aimSwaySpeed; https://prnt.sc/Hp51M1CJyZ6E
 int supereoka1 = 936 // 0x3A8 successFraction https://prnt.sc/DCIZLsaJog73
 int supereoka2 = 952 // 0x3B8 didSparkThisFrame https://prnt.sc/DCIZLsaJog73
+int fulotobisi = 864 // 0x360 https://prnt.sc/_rG_sf50v6RF
