@@ -71,3 +71,5 @@ int todskey4 = 72 //0x48 https://prnt.sc/xrF_NCHd9iry
 int todskey5 = 80 //0x50 https://prnt.sc/xrF_NCHd9iry
 int todskey6 = 20 //0x14 https://prnt.sc/xrF_NCHd9iry
 int todskey7 = 24 //0x18 https://prnt.sc/xrF_NCHd9iry
+int grapicsfov1 = 184 // 0xB8 https://prnt.sc/Wz_bwmcavf64
+int grapicsfov2 = 24 // 0X18 https://prnt.sc/Wz_bwmcavf64
