@@ -1,3 +1,4 @@
+int maincamerao = 62106936 // Signature": "MainCamera_c
 int BaseNetworkable = 62191616 // "Signature": "BaseNetworkable_c"
 int PlayerFlags = 2040 // public BasePlayer.PlayerFlags playerFlags;
 int LocalPlayerr = 62095120 // "Signature": "LocalPlayer_c"
