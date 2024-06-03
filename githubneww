@@ -122,3 +122,5 @@ int playerinputmus1 = 1464 // 0x5B8 //public PlayerInput input;
 int playerinputmus2 = 68 // 0x44 // private Vector3 bodyAngles;
 int espgetvelocity1 = 1432 // 0x598 // public PlayerModel playerModel;
 int espgetvelocity2 = 492 // 0x1EC //private Vector3 newVelocity;
+int headpos1 = 192 // 0xC0 // public Model model; // 0xB8 // https://prnt.sc/pRe9pnEnmHfh
+int headpos2 = 48 // 0x30 // public Transform headBone; // 0x28 // https://prnt.sc/pRe9pnEnmHfh
