@@ -107,3 +107,5 @@ int aimhesaplayici7 = 40 // 0x28  // https://prnt.sc/DNQez4za-KiS
 int aimhesaplayici8 = 20 // 0x14  // https://prnt.sc/DNQez4za-KiS
 int beltyedek1 = 20 // 0x14 // https://prnt.sc/RB3vY4cFqEJB
 int beltyedek2 = 16 // 0x10 // https://prnt.sc/RB3vY4cFqEJB
+int beltyedek3 = 32 // 0x20 // https://prnt.sc/EEa4sujKid7e
+int beltyedek4 = 32 // 0x20 //https://prnt.sc/EEa4sujKid7e
