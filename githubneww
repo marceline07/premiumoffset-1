@@ -120,3 +120,5 @@ int weaponbilgisi1 = 40 // 0x28 // https://prnt.sc/eB7qRCWKCcwU
 int weaponbilgisi2 = 32 // 0x20 // https://prnt.sc/eB7qRCWKCcwU
 int playerinputmus1 = 1464 // 0x5B8 //public PlayerInput input;
 int playerinputmus2 = 68 // 0x44 // private Vector3 bodyAngles;
+int espgetvelocity1 = 1432 // 0x598 // public PlayerModel playerModel;
+int espgetvelocity2 = 492 // 0x1EC //private Vector3 newVelocity;
