@@ -109,3 +109,7 @@ int beltyedek1 = 20 // 0x14 // https://prnt.sc/RB3vY4cFqEJB
 int beltyedek2 = 16 // 0x10 // https://prnt.sc/RB3vY4cFqEJB
 int beltyedek3 = 32 // 0x20 // https://prnt.sc/EEa4sujKid7e
 int beltyedek4 = 32 // 0x20 //https://prnt.sc/EEa4sujKid7e
+int getclotitemkismi1 = 24 // 0x18 // https://prnt.sc/Xc4NCf61l2HE
+int getclotitemkismi2 = 48 // 0x30 // https://prnt.sc/Xc4NCf61l2HE
+int getclotitemkismi3 = 16 // 0x10 // https://prnt.sc/Xc4NCf61l2HE
+int getclotitemkismi4 = 20 // 0x14 // https://prnt.sc/Xc4NCf61l2HE
