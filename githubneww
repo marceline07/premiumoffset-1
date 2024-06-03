@@ -113,3 +113,6 @@ int getclotitemkismi1 = 24 // 0x18 // https://prnt.sc/Xc4NCf61l2HE
 int getclotitemkismi2 = 48 // 0x30 // https://prnt.sc/Xc4NCf61l2HE
 int getclotitemkismi3 = 16 // 0x10 // https://prnt.sc/Xc4NCf61l2HE
 int getclotitemkismi4 = 20 // 0x14 // https://prnt.sc/Xc4NCf61l2HE
+int itemlistesi1 = 56 // 0x38 // https://prnt.sc/dDrV4_-fNVb9
+int itemlistesi2 = 64 // 0x40 // // public List<Item> itemList; // https://prnt.sc/dDrV4_-fNVb9
+int itemlistesi3 = 16 // 0x10 // https://prnt.sc/dDrV4_-fNVb9
