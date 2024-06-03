@@ -118,3 +118,5 @@ int itemlistesi2 = 64 // 0x40 // // public List<Item> itemList; // https://prnt.
 int itemlistesi3 = 16 // 0x10 // https://prnt.sc/dDrV4_-fNVb9
 int weaponbilgisi1 = 40 // 0x28 // https://prnt.sc/eB7qRCWKCcwU
 int weaponbilgisi2 = 32 // 0x20 // https://prnt.sc/eB7qRCWKCcwU
+int playerinputmus1 = 1464 // 0x5B8 //public PlayerInput input;
+int playerinputmus2 = 68 // 0x44 // private Vector3 bodyAngles;
