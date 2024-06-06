@@ -1,6 +1,6 @@
 int maincamerao = 62993336 // Signature": "MainCamera_c
 int BaseNetworkable = 63076536 // "Signature": "BaseNetworkable_c"
-int PlayerFlags = 2040 // public BasePlayer.PlayerFlags playerFlags;
+int PlayerFlags = 2104 // public BasePlayer.PlayerFlags playerFlags;
 int LocalPlayerr = 62980872 // "Signature": "LocalPlayer_c"
 int gbaseoffsets = 63076536 // BaseNetworkable_c* 
 int BaseGameMode = 63267856 // "Signature": "System_Collections_Generic_List_BaseGameMode__c"
